@@ -1,0 +1,54 @@
+{
+    "mens": [
+        {
+            "id": 1,
+            "img": "https://cdna.lystit.com/200/250/tr/photos/stand-out/38f07936/ea7-BlackGold-Chest-Logo-Tracksuit.jpeg",
+            "title": "EA7",
+            "description": "Chest logo tracksuit",
+            "price": "$128"
+        },
+        {
+            "id": 2,
+            "img": "https://cdna.lystit.com/200/250/tr/photos/stand-out/38f07936/ea7-BlackGold-Chest-Logo-Tracksuit.jpeg",
+            "title": "EA7",
+            "description": "Chest logo tracksuit",
+            "price": "$128"
+        },
+        {
+            "id": 3,
+            "img": "https://cdna.lystit.com/200/250/tr/photos/stand-out/38f07936/ea7-BlackGold-Chest-Logo-Tracksuit.jpeg",
+            "title": "EA7",
+            "description": "Chest logo tracksuit",
+            "price": "$128"
+        },
+        {
+            "id": 4,
+            "img": "https://cdna.lystit.com/200/250/tr/photos/stand-out/38f07936/ea7-BlackGold-Chest-Logo-Tracksuit.jpeg",
+            "title": "EA7",
+            "description": "Chest logo tracksuit",
+            "price": "$128"
+        },
+        {
+            "id": 5,
+            "img": "https://cdna.lystit.com/200/250/tr/photos/stand-out/38f07936/ea7-BlackGold-Chest-Logo-Tracksuit.jpeg",
+            "title": "EA7",
+            "description": "Chest logo tracksuit",
+            "price": "$128"
+        },
+        {
+            "id": 6,
+            "img": "https://cdna.lystit.com/200/250/tr/photos/stand-out/38f07936/ea7-BlackGold-Chest-Logo-Tracksuit.jpeg",
+            "title": "EA7",
+            "description": "Chest logo tracksuit",
+            "price": "$128"
+        },
+        {
+            "id": 7,
+            "img": "https://cdna.lystit.com/200/250/tr/photos/stand-out/38f07936/ea7-BlackGold-Chest-Logo-Tracksuit.jpeg",
+            "title": "EA7",
+            "description": "Chest logo tracksuit",
+            "price": "$128"
+        }
+    ]
+    
+}
